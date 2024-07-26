@@ -1,6 +1,6 @@
 # EV Market Size Analysis
 
-This repository contains the analysis of the electric vehicle (EV) market using data on EV registrations. The analysis explores various aspects such as the adoption of EVs over the years, geographical distribution, popularity of EV types and manufacturers, and electric range distribution. It also includes forecasting future EV market trend.
+This repository contains the analysis of the electric vehicle (EV) market using data on EV registrations. The analysis explores various aspects such as the adoption of EVs over the years, geographical distribution, popularity of EV types and manufacturers, and electric range distribution. It also includes forecasting future EV market trends.
 
 ## Dataset
 
